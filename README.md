@@ -1,2 +1,4 @@
 # learn deep learning
-sleep~~
+坏因生坏果
+
+都是我的错
