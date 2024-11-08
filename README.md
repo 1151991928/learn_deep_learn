@@ -1,2 +1,2 @@
 # learn deep learning
-sekiro
+second
